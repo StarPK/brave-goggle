@@ -4,6 +4,7 @@
 ! author: star
 
 ! blocks streaming services
+$discard,site=www.peacocktv.com
 $discard,site=disneyplus.com
 $discard,site=www.hulu.com
 $discard,site=hulu.com
