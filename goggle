@@ -1,0 +1,7 @@
+! name: general goggle
+! description: stuff
+! public: false
+! author: star
+
+! blocks streaming services
+$discard,site=disneyplus.com
