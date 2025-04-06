@@ -165,3 +165,9 @@ $discard,site=www.mymovierack.com
 $discard,site=mymovierack.com
 $discard,site=scenestamps.com
 $discard,site=kudos.wiki
+
+! got no idea what they they are, or they are beaurocracy.
+$discard,site=etsy.com
+$discard,site=m.facebook.com
+$discard,site=facebook.com
+$discard,site=linkedin.com
