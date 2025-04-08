@@ -3,6 +3,9 @@
 ! public: false
 ! author: star
 
+! boosts good sites
+$boost=3,site=torrentfreak.com
+
 ! blocks streaming services
 $discard,site=www.peacocktv.com
 $discard,site=disneyplus.com
