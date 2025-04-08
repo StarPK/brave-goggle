@@ -4,7 +4,7 @@
 ! author: star
 
 ! boosts good sites
-$boost=3,site=torrentfreak.com
+$boost=1,site=torrentfreak.com
 
 ! blocks streaming services
 $discard,site=www.peacocktv.com
@@ -128,6 +128,9 @@ $discard,site=ondisneyplus.disney.com
 $discard,site=disney.com
 $discard,site=tv.apple.com
 
+! not for me
+$discard,site=chromewebstore.google.com
+
 ! bans useless brainrot
 $discard,site=etsy.com
 $discard,site=linkedin.com
@@ -174,6 +177,13 @@ $discard,site=pinterest.ph
 $discard,site=pinterest.pt
 $discard,site=pinterest.ru
 $discard,site=pinterestcareers.com
+$discard,site=jp.pinterest.com
+$discard,site=community.pinterest.biz
+$discard,site=pinterest.design
+$discard,site=www.pinterestacademy.com
+$discard,site=pinterestacademy.com
+$discard,site=www.pintereststatus.com
+$discard,site=pintereststatus.com
 
 ! bans instagram& threads
 $discard,site=cdninstagram.com
