@@ -4,7 +4,7 @@
 ! author: star
 
 ! boosts good sites
-$boost=1,site=torrentfreak.com
+$boost=8,site=torrentfreak.com
 
 ! blocks streaming services
 $discard,site=www.peacocktv.com
